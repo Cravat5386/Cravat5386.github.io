@@ -6,6 +6,6 @@ Scroll down to find:
 - [Ideas and Ideation](https://cravat5386.github.io/fdvr/index.html#ideation)
 
 ## Research Article Summaries:
-
+- [January 1, 2023: Imaging the human hippocampus with optically-pumped magnetoencephalography IPR](https://cravat5386.github.io/fdvr/20230101.html)
 
 ## Ideation:
