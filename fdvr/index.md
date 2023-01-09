@@ -7,5 +7,6 @@ Scroll down to find:
 
 ## Research Article Summaries:
 - [January 1, 2023: Imaging the human hippocampus with optically-pumped magnetoencephalography IPR](https://cravat5386.github.io/fdvr/20230101.html)
+- [January 9, 2023: Dynamic Stimulation of Visual Cortex Produces Form Vision in Sighted and Blind Humans](https://cravat5386.github.io/fdvr/20230109.html)
 
 ## Ideation:
