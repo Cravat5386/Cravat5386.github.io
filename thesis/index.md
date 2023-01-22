@@ -7,5 +7,6 @@ Scroll down to find:
 
 ## Research Article Summaries:
 - [January 11, 2023: Home-Based Functional Electrical Stimulation Rescues Permanently Denervated Muscles in Paraplegic Patients With Complete Lower Motor Neuron Lesion](https://cravat5386.github.io/thesis/20230111.html)
+- [January 22, 2023: Upper limb functional electrical stimulation devices and their man–machine interfaces](https://cravat5386.github.io/thesis/20230122.html)
 
 ## Ideation:
